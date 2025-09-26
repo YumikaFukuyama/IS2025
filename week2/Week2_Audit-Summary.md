@@ -1,6 +1,6 @@
 # 📌 Final Mission: Hardware & Software Audit, Go! 
 ## Mission Block I: Software & Applications Inventory (軟體與應用程式清單)
-**Mission 1 (Lab 1: PC Software) Select the 3 most critical software programs for Information Management or you from the classroom PC you are using.**
+### **Mission 1 (Lab 1: PC Software) Select the 3 most critical software programs for Information Management or you from the classroom PC you are using.**
 1. Microsoft Excel (or Google Sheets)
 Purpose: Data entry, cleaning, analysis, and basic visualization.
 Manufacturer: Microsoft Corporation
@@ -22,24 +22,33 @@ Version: Varies(e.g. 312.0.0.*)
 Type: Social media/photo & video sharing
 <img width="345" height="539" alt="image" src="https://github.com/user-attachments/assets/082a88e8-805f-4b3c-bcc2-46cd3d5bfae2" />
 
-**Mission 2 (Lab 1: Database Software) Identify any database management or data processing software installed on your classroom PC (e.g., Access, SQL tools). Report "Not Found" if none are present.**
+### **Mission 2 (Lab 1: Database Software) Identify any database management or data processing software installed on your classroom PC (e.g., Access, SQL tools). Report "Not Found" if none are present.**
 <img width="837" height="780" alt="image" src="https://github.com/user-attachments/assets/3a0c65cf-ad8c-441e-9305-96d96963a29d" />
 
-**Mission 3 (Lab 2: Mobile Apps) Choose your 3 most frequently used Apps on your personal mobile phone.**
+### **Mission 3 (Lab 2: Mobile Apps) Choose your 3 most frequently used Apps on your personal mobile phone.**
 <img width="345" height="539" alt="image" src="https://github.com/user-attachments/assets/91d6cd11-968f-45b2-a1a1-cb61d2dd8fc3" />
 <img width="211" height="239" alt="image" src="https://github.com/user-attachments/assets/709087c7-c75e-49a3-a4d3-ab20df751304" />
 <img width="1080" height="2156" alt="image" src="https://github.com/user-attachments/assets/33a44f07-3896-4370-ab8c-8592b16b2593" />
 
+### **Mission 4 (Lab 2: Productivity App) Identify 1 "Productivity" App on your phone and briefly explain how it optimizes a personal Process (workflow).**
+✅ Productivity App:
+Google Calendar
+<img width="1240" height="800" alt="image" src="https://github.com/user-attachments/assets/a28ef8d9-9541-4351-9e40-5834457d5d28" />
 
-**Mission 4 (Lab 2: Productivity App) Identify 1 "Productivity" App on your phone and briefly explain how it optimizes a personal Process (workflow).**
+### **Mission 5 (Lab 3: Operating System) Record the Operating System Name and Version for both your PC and Mobile Phone.**
+<img width="436" height="470" alt="image" src="https://github.com/user-attachments/assets/6951853d-52d7-4966-ac78-759f5606e5e2" />
 
+### **Mission 6 (Lab 3: Total Storage) Record the Total Storage Capacity for both your PC and Mobile Phone.**
+<img width="762" height="781" alt="image" src="https://github.com/user-attachments/assets/709f5d34-5dc4-4fa4-abbe-36fa3b4fa623" />
 
-**Mission 5 (Lab 3: Operating System) Record the Operating System Name and Version for both your PC and Mobile Phone.**
-**Mission 6 (Lab 3: Total Storage) Record the Total Storage Capacity for both your PC and Mobile Phone.**
-**Mission 7 (Lab 3: Available Storage) Record the Current Available Storage for both your PC and Mobile Phone.**
-**Mission 8 (Data Volume Reflection) Based on the data from Missions 6 & 7, calculate which device (PC or phone) has a higher Data Occupancy Ratio (Used Space / Total Capacity).**
-**Mission 9 (System Dependency) During Missions 1-7, which IS element—Hardware or Software—took you the longest to verify? Briefly explain why.**
-**Mission 10 (GitHub Documentation) Organize all tables, text answers, and all required screenshots from Missions 1-9, and make sure them to your GitHub repository professionally.**
+### **Mission 7 (Lab 3: Available Storage) Record the Current Available Storage for both your PC and Mobile Phone.**
+<img width="762" height="781" alt="image" src="https://github.com/user-attachments/assets/3b4c7e9f-77e5-41da-a9b4-637fc052bfd6" />
+
+### **Mission 8 (Data Volume Reflection) Based on the data from Missions 6 & 7, calculate which device (PC or phone) has a higher Data Occupancy Ratio (Used Space / Total Capacity).**
+<img width="762" height="781" alt="image" src="https://github.com/user-attachments/assets/b63821fb-cae8-4980-8bc9-062648146bab" />
+
+### **Mission 9 (System Dependency) During Missions 1-7, which IS element—Hardware or Software—took you the longest to verify? Briefly explain why.**
+### **Mission 10 (GitHub Documentation) Organize all tables, text answers, and all required screenshots from Missions 1-9, and make sure them to your GitHub repository professionally.**
 
 
 
