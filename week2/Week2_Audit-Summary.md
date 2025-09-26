@@ -36,18 +36,29 @@ Google Calendar
 <img width="1240" height="800" alt="image" src="https://github.com/user-attachments/assets/a28ef8d9-9541-4351-9e40-5834457d5d28" />
 
 ### **Mission 5 (Lab 3: Operating System) Record the Operating System Name and Version for both your PC and Mobile Phone.**
+Computer: windows10
+Phone: Apple iOS
+<img width="590" height="1278" alt="截屏 2025-09-26 17 48 25" src="https://github.com/user-attachments/assets/e35f099a-e92f-4fcc-8ec2-7c8df739ac48" />
+<img width="1026" height="885" alt="image" src="https://github.com/user-attachments/assets/ca8efe5a-9b4e-4f20-b5ba-27c377d855b3" />
+
 <img width="436" height="470" alt="image" src="https://github.com/user-attachments/assets/6951853d-52d7-4966-ac78-759f5606e5e2" />
+<img width="74" height="160" alt="截屏 2025-09-26 17 40 07" src="https://github.com/user-attachments/assets/634219e0-5987-43a3-aa63-a76377e444dd" />
 
 ### **Mission 6 (Lab 3: Total Storage) Record the Total Storage Capacity for both your PC and Mobile Phone.**
-<img width="762" height="781" alt="image" src="https://github.com/user-attachments/assets/709f5d34-5dc4-4fa4-abbe-36fa3b4fa623" />
+<img width="357" height="112" alt="image" src="https://github.com/user-attachments/assets/0d9a7dd1-d0c6-41e1-b87c-4e4e2b06e789" />
+
 
 ### **Mission 7 (Lab 3: Available Storage) Record the Current Available Storage for both your PC and Mobile Phone.**
-<img width="762" height="781" alt="image" src="https://github.com/user-attachments/assets/3b4c7e9f-77e5-41da-a9b4-637fc052bfd6" />
+<img width="357" height="112" alt="image" src="https://github.com/user-attachments/assets/e0928131-c13c-4d80-a623-4b3bbea1c562" />
+
 
 ### **Mission 8 (Data Volume Reflection) Based on the data from Missions 6 & 7, calculate which device (PC or phone) has a higher Data Occupancy Ratio (Used Space / Total Capacity).**
-<img width="762" height="781" alt="image" src="https://github.com/user-attachments/assets/b63821fb-cae8-4980-8bc9-062648146bab" />
+<img width="357" height="112" alt="image" src="https://github.com/user-attachments/assets/bc7770ea-73fd-4e56-af11-40ee084710f3" />
+
 
 ### **Mission 9 (System Dependency) During Missions 1-7, which IS element—Hardware or Software—took you the longest to verify? Briefly explain why.**
+to culculate the percentage of usage. 
+
 ### **Mission 10 (GitHub Documentation) Organize all tables, text answers, and all required screenshots from Missions 1-9, and make sure them to your GitHub repository professionally.**
 
 
