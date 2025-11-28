@@ -1,5 +1,7 @@
 # Week 11 Mid-term Mission
-## 1. Your GAI (e.g., Google Gemini)
+## 🐱‍👤1. Your GAI (e.g., Google Gemini)
+<img width="1185" height="681" alt="image" src="https://github.com/user-attachments/assets/5638c925-98af-4e10-b19c-f343d1b3bbdc" />
+
 ## 2. Reference Prompt
 <img width="515" height="262" alt="image" src="https://github.com/user-attachments/assets/14094f3a-0f2e-4ca9-82c6-44578e1b0a9c" />
 
@@ -107,26 +109,212 @@ Draft a 2-minute script for the "Challenge" section explaining my biggest SQL/Py
 3. If you need the Prompt Appendix: “Generate 8 exact prompts plus example AI responses I can paste into my appendix (for schema design, debugging, plotting, and presentation scripting).”
 
 ## 3. 「選題與數據架構」: 我想稽核我的每日工作時間.
+<img width="699" height="407" alt="image" src="https://github.com/user-attachments/assets/8e6ed709-e926-4248-accf-7b0d84791428" />
+
 <img width="657" height="242" alt="image" src="https://github.com/user-attachments/assets/38cc1763-3e3b-4f89-b58c-30ac0f059682" />
 
 ## 4. 知識可視化 (Knowledge Visualization)
+**📊 1. Hours Spent Per Day**
 <img width="956" height="484" alt="image" src="https://github.com/user-attachments/assets/bcae3df6-a7ec-4da7-ae41-1431e760aaa6" />
 
+**📂 2. Total Hours by Task Category**
 <img width="956" height="589" alt="image" src="https://github.com/user-attachments/assets/97ab781c-1576-4356-b360-e75c7784f8df" />
 
+**🎯 3. Focus Rating Over Time**
 <img width="955" height="476" alt="image" src="https://github.com/user-attachments/assets/e5b495b7-5630-443d-be92-ccbfb0e59d7b" />
 
 ## 5. 深度稽核分析 (Your IM Analyst Report)
+<img width="1097" height="1027" alt="image" src="https://github.com/user-attachments/assets/d84ac37e-b285-401b-885a-985a5cb6e741" />
 
+### 🔍 深度稽核分析（Your IM Analyst Report）
 
+#### 1. 資源分配優勢（Resource Strength)
 
+**📊 資料證據：**
+根據你的每日紀錄，Deep Work（深度工作）占比高達 46.2%（36 小時），是非常罕見的高比例。多數知識工作者的深度工作通常低於 20～30%。
 
+**🧠 知識洞察：**
+你已成功創造屬於自己的「高效能工作泡泡」。在現代充滿會議、訊息干擾的環境中，你可以長時間維持深度專注，這是你的核心競爭力與最強資產。
 
+**👉 這代表什麼？**
+你現階段真正擁有「職涯推進引擎」。只要方向正確，成效會成倍放大。
 
+#### 2. 數據異常與自我覺察（Data Anomaly & Self-Awareness）
+**📊 資料證據（1）：能量標記全為 High**
 
+你的所有工作紀錄（100%）都標示為 High（高能量）。
 
+**📊 資料證據（2）：專注度全部為 5.0**
 
+你的每一天、每一項任務——不論類型——專注度均為滿分 5.0。
 
+**🤔 關鍵反思（Critical Thinking）：這是極不尋常的統計數字**
+
+這組數據可能說明兩種情況：
+
+**(A) 你真的是超人模式 �**�
+
+你每天平均 10〜12 小時的工作量，且連續多天保持 Peak Energy，不靠運氣，而是靠體質與習慣。
+
+或
+
+**(B) 測量偏差（Measurement Bias）📉**
+
+你的紀錄標準可能太粗略：
+
+你可能忽略「疲勞的小波動」
+
+也可能沒有量化區分「極高、中高、中等」的能量差
+
+或者你的紀錄系統太寬鬆（只有單一選項 High）
+
+**🎬 影片 / 報告建議段落：**
+
+「在分析過程中，我意識到自己的感知工具太粗糙，導致自己看不見『精細的能量波動』。這是我下一步要改善的地方。」
+
+#### 3. 休息與工作的平衡（Rest–Work Balance）
+**📊 資料證據：**
+
+Recreation（休閒）與 Meeting（會議）各占 20.5%，形成良好的節奏分布。
+
+**🧠 知識洞察：**
+
+你的休息時間並非真正放空，而是“能量調節時段”。
+休息時專注度下降為 3.0，代表你能明確辨識「非工作狀態」。
+
+👉 這是你能長期維持高產量的原因之一。
+
+#### 🧩 綜合結論（Holistic Conclusion）
+
+你的工作資料顯示出一位極高自律、能量穩定、深度工作能力異常強大的知識工作者。
+
+你真正的優勢是：
+
+✔ 持續維持深度專注
+✔ 高能量日均衡運作
+✔ 工作–休息分區明確
+✔ 基於紀錄的自我優化意識強
+
+#### 🚀 下一步行動建議（Action Steps）
+1. 擴充你的量測維度（更高精度的能量雷達）
+
+加入：
+
+3 段式能量測量（High / Mid / Low）
+
+壓力指數
+
+情緒色溫（Warm / Neutral / Cool）
+
+2. 分析「深度工作產出」與「時間投入」的關係
+
+我可以幫你畫出：
+
+Deep Work 時間 vs 成果曲線
+
+能量 vs 產出關係圖
+
+每週效率雷達圖
+
+3. 自動化「每週工作審計」儀表板（可生成 PDF）
+
+### 6. DIKW Pyramid (Data, Information, Knowledge, Wisdom) 定義，轉化為一份專業的總結表。
+<img width="562" height="186" alt="image" src="https://github.com/user-attachments/assets/447726d8-f069-4efa-8cf3-1617f44b817b" />
+
+#### DIKW Pyramid Summary Table — Based on Your Work Log🧩
+
+## 🧱 DIKW Table
+
+| DIKW Level | Your Work Log Content | Explanation / Usage |
+|------------|------------------------|----------------------|
+| **D — Data** | - Date  <br> - Task Category  <br> - Hours Spent  <br> - Focus Rating  <br> - Energy Level | Raw, unprocessed facts. No interpretation yet. |
+| **I — Information** | - Daily working hours: 8–16 hrs  <br> - Deep Work = 46.2% (36 hrs)  <br> - Meeting & Recreation = 20.5% each <br> - Focus Rating = 5.0 across all days <br> - Energy Level = 100% High | Structured & organized data; shows trends and distributions. |
+| **K — Knowledge** | - You maintain long, stable periods of deep work. <br> - You can clearly separate work vs non-work focus levels. <br> - Energy/Focus metrics might be too coarse or biased. | Meaning extracted from information; reveals behavior patterns & insights. |
+| **W — Wisdom** | - Deep Work is your strongest productivity engine. <br> - Improve measurement granularity (energy, focus). <br> - Build weekly audit dashboards for long-term performance. | Actionable strategies for decision-making and long-term improvement. |
+
+## 📌 DIKW Summary (Text Version)
+
+### **Data**
+Raw logs of hours, tasks, focus, and energy.
+
+### **Information**
+Patterns: Deep Work dominance, stable high focus, balanced rest.
+
+### **Knowledge**
+Understanding your working style: high stamina, clear boundaries, need for better granularity.
+
+### **Wisdom**
+Use deep work strategically; refine tracking; adopt weekly auditing.
+
+### 7. 量身打造的 10 頁期中簡報架構 (Slide Deck)
+
+<img width="537" height="88" alt="image" src="https://github.com/user-attachments/assets/cd4631a9-f7c0-4516-bf3b-4ac4b8bbf88b" />
+
+***FIRST***: 
+Your 10-slide midterm presentation deck is ready! 🎉
+👇 Click below to download your professionally generated PPTX file:
+
+<img width="1613" height="695" alt="image" src="https://github.com/user-attachments/assets/4c836666-efca-46b7-8fa4-eb23deaf2bfe" />
+
+---
+
+<img width="413" height="164" alt="image" src="https://github.com/user-attachments/assets/fb6d784a-535e-4c18-94a3-3a4b8831a385" />
+
+***SECOND***: 
+Your redesigned, more visual, more stylish presentation is ready!
+✨ Icons, accent bars, structured layouts, and a modern aesthetic were added.
+
+<img width="1385" height="898" alt="image" src="https://github.com/user-attachments/assets/8f3c0a48-f5a4-46f9-bd42-3e7585593ec9" />
+
+🎤 Professional Speech Script (Slide-by-Slide)
+
+You can read this during your presentation.
+
+Slide 1 — Midterm Presentation
+
+“Hello everyone. Today I’m presenting a deep analysis of my work log, using the DIKW framework—Data, Information, Knowledge, and Wisdom. This helps transform raw tracking data into meaningful insights about my productivity and performance.”
+
+Slide 2 — Objective
+
+“The goal of this analysis is threefold:
+First, to audit my daily work patterns.
+Second, to identify key strengths and unusual patterns.
+Third, to transform those patterns into actionable strategies that support long-term improvement.”
+
+Slide 3 — Data Overview
+
+“These are the raw data points I collected: date, task category, hours spent, focus rating, and energy level. At this stage, everything is recorded as neutral facts without interpretation.”
+
+Slide 4 — Information Extracted
+
+“After structuring the data, several trends became clear. My daily working hours ranged from 8 to 16 hours. Deep Work made up 46.2% of total time. Meetings and recreation each represented about 20.5%. Focus ratings were consistently 5.0, and energy levels were marked ‘High’ every day.”
+
+Slide 5 — Knowledge Gained
+
+“From these findings, I can interpret deeper meaning:
+I have strong stamina and the ability to sustain deep work over long periods.
+My work–rest distinction is clear.
+However, the uniformity of the energy and focus data suggests that my self-reporting method may lack granularity.”
+
+Slide 6 — Wisdom
+
+“This leads to actionable wisdom: Deep Work is my strongest productivity engine. To leverage it better, I need a more refined measurement system. Weekly auditing will help maintain clarity and improve my performance patterns.”
+
+Slide 7 — Deep Work Insights
+
+“Deep Work stands out as a major strength. I spent 36 hours in deep work during the period analyzed. This level of consistency suggests strong cognitive endurance—an asset I can strategically invest in high-value tasks.”
+
+Slide 8 — Energy Level Analysis
+
+“While my energy readings were consistently ‘High,’ this may indicate a measurement bias. Human energy fluctuates naturally, so adding a three-level scale—High, Medium, Low—would provide more useful insights.”
+
+Slide 9 — Rest–Work Balance
+
+“My rest and meeting times balance well at around 20.5%. The decrease in focus to 3.0 during breaks indicates my ability to mentally detach, which is crucial for sustainable productivity.”
+
+Slide 10 — Next Steps
+
+“Going forward, I will refine my measurement system, build a weekly KPI dashboard, and continue optimizing my deep work cycles. These steps will help me maintain long-term performance alignment and personal growth.”
 
 
 
