@@ -156,8 +156,6 @@ Draft a 2-minute script for the "Challenge" section explaining my biggest SQL/Py
 
 你每天平均 10〜12 小時的工作量，且連續多天保持 Peak Energy，不靠運氣，而是靠體質與習慣。
 
-或
-
 **(B) 測量偏差（Measurement Bias）📉**
 
 你的紀錄標準可能太粗略：
