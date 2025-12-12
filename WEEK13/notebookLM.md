@@ -56,6 +56,9 @@ In the current ample reserves regime, the Committee eliminated the aggregate lim
 
 ### 8 Key Features 
 **Infograpic**
+<img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/a32570e8-0b46-4ade-a1a8-bebcd97e8ef5" />
+
+**Infograpic(less words)**
 <img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/ad7f33b2-1b5d-418e-89ba-ebb739f00080" />
 
 **暗記カード/單字卡**
@@ -67,6 +70,8 @@ In the current ample reserves regime, the Committee eliminated the aggregate lim
 **Mind Mapping**
 <img width="1906" height="895" alt="image" src="https://github.com/user-attachments/assets/b6f291c7-4c0d-49ce-8fb6-b5f2a5534aef" />
 
+**REPORT**
+<img width="1311" height="836" alt="image" src="https://github.com/user-attachments/assets/25cd0028-195a-427e-a977-f1262ef17296" />
 
 
 
