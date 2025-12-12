@@ -15,13 +15,11 @@
 
 ### Mission 2: Please analyze and create your own 8 key outcomes by your story (e.g., Midterm Prsentation, YouTube Video about Information System)
 
-Option A: Midterm Presentation Story — 8 Key Outcomes
+**Option A: Midterm Presentation Story — 8 Key Outcomes**
 
-Problem framing: I learned to define the real problem (pain points + stakeholders) before proposing solutions.
-
-System thinking: I mapped inputs → processes → outputs → feedback loops instead of listing features.
-
-Data mindset: I clarified what data is needed, where it comes from, and how quality affects decisions.
+1.Problem framing: I learned to define the real problem (pain points + stakeholders) before proposing solutions.
+2.System thinking: I mapped inputs → processes → outputs → feedback loops instead of listing features.
+3.Data mindset: I clarified what data is needed, where it comes from, and how quality affects decisions.
 
 Security awareness: I added privacy + access control as requirements (not last-minute add-ons).
 
