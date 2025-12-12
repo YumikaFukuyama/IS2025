@@ -20,39 +20,28 @@
 1.Problem framing: I learned to define the real problem (pain points + stakeholders) before proposing solutions.
 2.System thinking: I mapped inputs → processes → outputs → feedback loops instead of listing features.
 3.Data mindset: I clarified what data is needed, where it comes from, and how quality affects decisions.
+4.Security awareness: I added privacy + access control as requirements (not last-minute add-ons).
+5.Feasibility check: I compared “ideal design” vs real constraints (time, budget, tools, skills).
+6.User-first design: I created user journeys and prioritized usability to reduce friction.
+7.Clear communication: I improved explaining complex ideas with simple diagrams + one-message-per-slide.
+8.Reflection & iteration: I used feedback to revise quickly—prototype → test → improve.
 
-Security awareness: I added privacy + access control as requirements (not last-minute add-ons).
+**Option B: YouTube Video (Information Systems) Story — 8 Key Outcomes**
 
-Feasibility check: I compared “ideal design” vs real constraints (time, budget, tools, skills).
+1.Hook matters: I learned to start with a relatable scenario before definitions.
+2.Explain with examples: I connected concepts (VPN/DNS/authentication) to real daily apps.
+3.Accuracy over hype: I avoided “VPN = total anonymity” myths and explained limits.
+4.Structure: I used a repeatable flow: concept → how it works → risks → best practices.
+5.Visual clarity: I used simple network diagrams (device → VPN server → website).
+6.Practical tips: I included actionable settings (kill switch, DNS leak protection).
+7.Ethics & compliance: I acknowledged legal/school policy boundaries and responsible use.
+8.Audience feedback: I learned to refine pacing and clarity based on comments/questions.
 
-User-first design: I created user journeys and prioritized usability to reduce friction.
-
-Clear communication: I improved explaining complex ideas with simple diagrams + one-message-per-slide.
-
-Reflection & iteration: I used feedback to revise quickly—prototype → test → improve.
-
-Option B: YouTube Video (Information Systems) Story — 8 Key Outcomes
-
-Hook matters: I learned to start with a relatable scenario before definitions.
-
-Explain with examples: I connected concepts (VPN/DNS/authentication) to real daily apps.
-
-Accuracy over hype: I avoided “VPN = total anonymity” myths and explained limits.
-
-Structure: I used a repeatable flow: concept → how it works → risks → best practices.
-
-Visual clarity: I used simple network diagrams (device → VPN server → website).
-
-Practical tips: I included actionable settings (kill switch, DNS leak protection).
-
-Ethics & compliance: I acknowledged legal/school policy boundaries and responsible use.
-
-Audience feedback: I learned to refine pacing and clarity based on comments/questions.
+### Mission 3: How To Learn IP Sec VPN by NotebookLM by Fast Search and YouTube Video?
+![Uploading image.png…]()
 
 
-
-
-
+### Mission 4: Please find a topic about Cybersecurity (Select 1+)
 
 
 
