@@ -38,8 +38,7 @@
 8.Audience feedback: I learned to refine pacing and clarity based on comments/questions.
 
 ### Mission 3: How To Learn IP Sec VPN by NotebookLM by Fast Search and YouTube Video?
-![Uploading image.png…]()
-
+<img width="1907" height="922" alt="image" src="https://github.com/user-attachments/assets/bccadca8-166f-4b39-b4e8-4e1f41a36927" />
 
 ### Mission 4: Please find a topic about Cybersecurity (Select 1+)
 
