@@ -1,5 +1,5 @@
 # 🍧Unit 9 NotebookLM x IS - Learning Workshop (學習工坊)
-## 🧠 Part 1: NotebookLM 與資訊系統 (IS) 的深度關係 (5W1H 分析)
+# 🧠 Part 1: NotebookLM 與資訊系統 (IS) 的深度關係 (5W1H 分析)
 
 | 5W1H | 分析內容 (Analysis) | IS 關鍵字映射 (Keywords Mapping) |
 |-----|------------------|--------------------------------|
@@ -10,8 +10,8 @@
 | **When (何時使用)** | 在預習（Preview）建立架構、複習（Review）釐清觀念、備考（Exam Prep）模擬測試時。它實現了 On-Demand 學習。 | Asynchronous Communication ⏳<br>Availability ✅ |
 | **How (如何運作)** | 它利用 RAG（Retrieval-Augmented Generation）技術。它只會根據你上傳的教科書回答，不會像 ChatGPT 那樣產生幻覺（Hallucination），這保證了資料的正確性。 | Data Integrity 🛡️<br>Input-Process-Output (IPO) 🔄 |
 
-## 🛠️ Part 2: Top 5 Classic Use Cases & Master-Level Workflow (大師級工作流)
-## 🌟 Use Case 1: The "Bilingual Bridge" (雙語知識橋樑)
+# 🛠️ Part 2: Top 5 Classic Use Cases & Master-Level Workflow (大師級工作流)
+## **🌟 Use Case 1: The "Bilingual Bridge" (雙語知識橋樑)**
 <img width="1361" height="494" alt="image" src="https://github.com/user-attachments/assets/0b73b8a8-88da-4e9e-99e9-ea2d2073b582" />
 <img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/4ad8b9f2-b703-4ff6-a8af-92bf6278a9c8" />
 <img width="890" height="598" alt="image" src="https://github.com/user-attachments/assets/cb340988-6e4d-4319-bbd7-5eff10ef502a" />
@@ -47,8 +47,7 @@
 <img width="788" height="683" alt="image" src="https://github.com/user-attachments/assets/bc406c59-3893-47ca-9a39-4c4c74c89c31" />
 <img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/670d8ba5-ea5c-4d21-956c-1cd02e73569f" />
 
-
-
+# 🧪 Part 3: Top 30 Labs - NotebookLM 實戰實驗室
 
 
 
