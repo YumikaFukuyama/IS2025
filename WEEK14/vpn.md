@@ -12,9 +12,8 @@
 
 **Free OpenVPN Server**
 <img width="1899" height="909" alt="image" src="https://github.com/user-attachments/assets/14abce98-dd18-44a3-8972-c51864b2fffd" />
+<img width="1301" height="504" alt="image" src="https://github.com/user-attachments/assets/d58b5c42-d1ab-4789-94ef-4e48565d3d6f" />
 
-これらのショートカットを使うと、作業がかなり効率的に進みます。
-あなたが使っている特定のアプリケーションに関連するショートカットも知りたければ、さらに教えてもらえれば、詳しくご案内できます！
 
 
 
