@@ -11,7 +11,7 @@
 | **How (如何運作)** | 它利用 RAG（Retrieval-Augmented Generation）技術。它只會根據你上傳的教科書回答，不會像 ChatGPT 那樣產生幻覺（Hallucination），這保證了資料的正確性。 | Data Integrity 🛡️<br>Input-Process-Output (IPO) 🔄 |
 
 # 🛠️ Part 2: Top 5 Classic Use Cases & Master-Level Workflow (大師級工作流)
-## **🌟 Use Case 1: The "Bilingual Bridge" (雙語知識橋樑)**
+## 🌟 Use Case 1: The "Bilingual Bridge" (雙語知識橋樑)
 <img width="1361" height="494" alt="image" src="https://github.com/user-attachments/assets/0b73b8a8-88da-4e9e-99e9-ea2d2073b582" />
 <img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/4ad8b9f2-b703-4ff6-a8af-92bf6278a9c8" />
 <img width="890" height="598" alt="image" src="https://github.com/user-attachments/assets/cb340988-6e4d-4319-bbd7-5eff10ef502a" />
@@ -25,7 +25,7 @@
 > 4. **Synthesize** 📝: 回家後，問 NotebookLM: *"Summarize the key points from the Audio Overview regarding 'Phishing' and 'Firewalls' in Chinese."*
 <img width="926" height="736" alt="image" src="https://github.com/user-attachments/assets/316e4bb2-97a7-4fbb-9311-2a1035234f54" />
 
-### 🛡️ Use Case 3: The "Security Analyst" (資安防禦模擬)
+## 🛡️ Use Case 3: The "Security Analyst" (資安防禦模擬)
 <img width="584" height="590" alt="image" src="https://github.com/user-attachments/assets/eb83c74b-a1ef-4c17-916f-e353b082d2e7" />
 <img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/2f9d4dbc-0dd0-42aa-89ef-7082e14d4bc5" />
 
@@ -47,10 +47,16 @@
 <img width="788" height="683" alt="image" src="https://github.com/user-attachments/assets/bc406c59-3893-47ca-9a39-4c4c74c89c31" />
 <img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/670d8ba5-ea5c-4d21-956c-1cd02e73569f" />
 
-# 🧪 Part 3: Top 30 Labs - NotebookLM 實戰實驗室
+## 🧪 Part 3: Top 30 Labs - NotebookLM 實戰實驗室
+## Phase 1: Foundations (Unit 1.1 - 1.2) - 暖身區 🏃
+**The Five Components**
+1. **Hardware**: This is the tangible, physical portion of the system—the parts you can actually touch. Examples include computers, keyboards, and flash drives.
+2. **Software**: This component consists of sets of instructions that tell the hardware what to do. It is intangible and is divided into two categories: operating systems (which interface with hardware) and application software (which performs specific tasks).
+3. **Data**: These are raw facts that are also intangible. While individual pieces of data are not very useful on their own, they become powerful tools for decision-making when organized into databases.
+4. **People**: This component involves the individuals necessary to design, operate, and use the system. This ranges from technical staff like developers and Systems Analysts to leadership roles like the Chief Information Officer (CIO).
+5. **Process**: A process is a series of steps taken to achieve a specific goal. Modern information systems focus on integrating technology with business procedures to improve productivity and gain a competitive advantage.
 
-
-
+<img width="934" height="317" alt="image" src="https://github.com/user-attachments/assets/0cee4109-0014-4154-bcd1-a7540679f180" />
 
 
 
