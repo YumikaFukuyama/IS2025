@@ -11,13 +11,13 @@
 | **How (如何運作)** | 它利用 RAG（Retrieval-Augmented Generation）技術。它只會根據你上傳的教科書回答，不會像 ChatGPT 那樣產生幻覺（Hallucination），這保證了資料的正確性。 | Data Integrity 🛡️<br>Input-Process-Output (IPO) 🔄 |
 
 ## 🛠️ Part 2: Top 5 Classic Use Cases & Master-Level Workflow (大師級工作流)
-### 🌟 Use Case 1: The "Bilingual Bridge" (雙語知識橋樑)
+## 🌟 Use Case 1: The "Bilingual Bridge" (雙語知識橋樑)
 <img width="1361" height="494" alt="image" src="https://github.com/user-attachments/assets/0b73b8a8-88da-4e9e-99e9-ea2d2073b582" />
 <img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/4ad8b9f2-b703-4ff6-a8af-92bf6278a9c8" />
 <img width="890" height="598" alt="image" src="https://github.com/user-attachments/assets/cb340988-6e4d-4319-bbd7-5eff10ef502a" />
 <img width="880" height="652" alt="image" src="https://github.com/user-attachments/assets/0ce1311f-d179-4f6d-b3ef-c383bed6672e" />
 
-### 🎧 Use Case 2: The "Podcast Commuter" (通勤學習法)
+## 🎧 Use Case 2: The "Podcast Commuter" (通勤學習法)
 > Workflow 🔄:
 > 1. **Scope** 🎯: 勾選 Unit 8 (Security) 相關的章節 (Chapter 6 & 12 in PDF)。
 > 2. **Generate** 🎙️: 點擊 **"Audio Overview"** 生成雙人對談 Podcast。
@@ -29,7 +29,7 @@
 <img width="584" height="590" alt="image" src="https://github.com/user-attachments/assets/eb83c74b-a1ef-4c17-916f-e353b082d2e7" />
 <img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/2f9d4dbc-0dd0-42aa-89ef-7082e14d4bc5" />
 
-### 🧪 Use Case 4: The "Exam Simulator" (考前衝刺)
+## 🧪 Use Case 4: The "Exam Simulator" (考前衝刺)
 > Workflow 🔄:
 > 1. **Source** 📚: 選取 Unit 1 到 Unit 8 的所有相關章節。
 > 2. **Quiz** ❓: 輸入: *"Create 10 multiple-choice questions based on Unit 4 (Databases) and Unit 5 (Networking). For each question, provide the answer key and point to the specific page number in the source PDF."*
@@ -38,7 +38,7 @@
 <img width="797" height="645" alt="image" src="https://github.com/user-attachments/assets/987c5734-ccc8-448b-910d-82ba3bf1af89" />
 <img width="792" height="632" alt="image" src="https://github.com/user-attachments/assets/56484976-d55e-452d-8f8e-9dbd78e67b47" />
 
-### 🚀 Use Case 5: The "Cross-Pollinator" (跨單元連結)
+## 🚀 Use Case 5: The "Cross-Pollinator" (跨單元連結)
 > Workflow 🔄:
 > 1. **Connect** 🔗: 選取全部來源。
 > 2. **Prompt** 🧠: *"Analyze the relationship between 'Moore's Law' (Unit 3/Hardware) and 'Encryption Cracking' (Unit 8/Security). Does faster hardware make security harder? Explain in Traditional Chinese."*
