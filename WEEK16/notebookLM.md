@@ -10,23 +10,33 @@ FvDesigner provides a comprehensive HMI (Human Machine Interface) solution to ad
 **Social and Industrial Pain Points**
 
 • Remote Maintenance Challenges: Difficulty managing and troubleshooting equipment in distant locations without constant physical presence.
+
 • Data Fragmentation: The complexity of centralizing data from various manufacturers and communication protocols.
+
 • Security & Intellectual Property: Risks of unauthorized machine operation or the theft of proprietary PLC/HMI programming.
+
 • Production Flexibility: The need to accurately manage and switch between complex parameter sets for diverse product lines (e.g., changing ingredient ratios for different types of bread).
 
 **Solutions provided by FvDesigner**
 
 • Remote Access: VNC Server enables remote screen monitoring and operation, while the FTP Server allows for remote access to HMI files.
+
 • IoT Standardization: Native support for MQTT, OPC UA, and REST API bridges the gap between field devices and third-party cloud applications.
+
 • Robust Security: Includes Multi-level user permissions, USB Security Keys for login, and Installment payment controls that lock machine operation until an authorization code is entered.
+
 • Recipe Management: A system that groups parameters into Recipes, allowing operators to change multiple machine settings simultaneously with ease.
 
 **Information Systems and Tools**
 
 • FvDesigner: The core design environment for developing HMI projects.
+
 • FvRT (PC Runtime): A tool that allows HMI projects to be executed on a PC for PLC communication.
+
 • iAccess (FATEK Cloud): A cloud platform for secure remote maintenance, project updates, and monitoring.
+
 • Modbus Gateway: Configures the HMI as a bridge between an upper-level SCADA system and multiple lower-level devices.
+
 • Database Integration: Direct connectivity with MySQL and Microsoft SQL Server for data exchange and storage.
 
 ### Q2: Analyze and list the key five key components of an Information System (IS) using 5W1H method.
@@ -44,9 +54,7 @@ FvDesigner provides a comprehensive HMI (Human Machine Interface) solution to ad
 ### Q3: Why did the designers include a physical electronic scale inside the digital box? How does this sensor integration (IoT) bridge the gap between abstract digital transactions and physical satisfaction?
 
 While the manual does not explicitly mention a "charity digital box," it details the use of Recipes to manage physical material ratios (e.g., bread and cake ingredients). 
-
 By integrating sensors (via PLC or IoT protocols like MQTT), abstract digital settings are converted into precise physical quantities. 
-
 This integration ensures that digital transactions result in consistent physical outcomes, satisfying quality requirements and operational goals.
 
 ### Q4: The case claims a "positive outcome for all stakeholders." Beyond the charity receiving money, what is the specific value proposition for the Grocery Store hosting the device?
@@ -69,10 +77,25 @@ Beyond the primary function, a host (such as a grocery store) gains specific val
 
 Does this analysis align with your goals, or would you like to dive deeper into how specific protocols like MQTT are configured?
 
+### Q6: The RKD Group report notes that "New donor rates drop" while "Core donors" remain stable. How should this data influence the design of the "Attract Mode"? Should the machine focus on educating new people or recognizing repeat donors?
 
+The "Screen Saver" (Attract Mode) in FvDesigner allows for "Custom Text" and specific "Fonts" to engage users. To prioritize repeat donors, the "Security" system can identify "Core Donors" using unique "User IDs" and "Passwords" to provide a personalized experience.
 
+### Q7: Traditional models fail when data patterns change suddenly (e.g., natural disasters). How does the FoodRL framework use Reinforcement Learning to adapt to "Concept Drift" caused by events like hurricanes or wildfires?
 
+While the software does not explicitly feature Reinforcement Learning, it uses "Scripts" to handle complex logic. These scripts can use "Logical Judgments" and "Arithmetic" to adapt the HMI's behavior to sudden external data changes.
 
+### Q8: How could the real-time data collected by the "Small Donation" devices be fed into the AI system to create a more accurate, real-time map of community hunger, bypassing the need?
+
+Real-time donation data is gathered using "Data Collection" groups. This information can be fed into an AI system by "Synchronizing" it to an SQL database or publishing it via "MQTT" and "REST API" protocols.
+
+### Q9: According to the case study, why does $1 bought by a food bank equal 4-20 meals, whereas an individual's dollar only equals 1-2 meals? How does the system visualize this efficiency gap to change donor behavior?
+
+Specific meal-to-dollar ratios can be managed as "Recipes" within the system. To change donor behavior, the system can visualize these efficiency gaps using "Pie Charts" or "Bar Graphs".
+
+### Q10: How does the system utilize the "Attract Mode" (when idle) versus the "Feedback Screen" (post-donation) to create an emotional feedback loop? What specific visual elements are used to trigger empathy?
+
+Designers use "Window Screen Displays" to provide immediate feedback after a donation. Specific visual elements to trigger empathy, such as photos or animations, are implemented using the "Image Library" and "GIF Display" features.
 
 
 
