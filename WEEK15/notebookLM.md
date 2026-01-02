@@ -1,45 +1,76 @@
+# 🟢 Phase 1: Foundations (Unit 1.1 - 1.2) - 暖身區 🏃
+## [History]: "Summarize the 'Mainframe Era' vs. 'PC Revolution' vs. 'Cloud Era' from the text. What changed in terms of accessibility?" ⏳
+
+**The Mainframe Era (Late 1950s – 1960s)**
+
+During this period, computers were "room-sized monsters" primarily used by large businesses, universities, and government agencies. Their main role was "data processing," such as performing complex calculations and organizing large volumes of information that were too tedious to manage by hand.
+
+• Hardware: Terminals connected to a central mainframe computer.
+• Accessibility: Very low. Computing was restricted to elite institutions because the systems required specialized personnel and dedicated facilities to operate.
+
+**The PC Revolution (Mid-1970s – 1980s)**
+
+The arrival of the microcomputer, starting with the Altair 8800 and later the Apple II and IBM PC, shifted the center of technology to Silicon Valley. This era saw the rise of the "Killer App" (the spreadsheet), which made computers essential for business.
+
+• Hardware: Standalone personal computers.
+• Accessibility: High. For the first time, small businesses and individuals had access to affordable, powerful computing tools that did not require a room-sized setup.
+
+**The Cloud Era (Mid-2000s – Present)**
+
+Often referred to as the "Post-PC World," this era is defined by the transition from local hardware to Internet-based services. Cloud computing allows users to access applications and data storage via the Internet rather than relying on a specific physical device.
+
+• Hardware: Laptops, smartphones, and tablets.
+• Accessibility: Ubiquitous. Information is now available from any computer or mobile device with an Internet connection. Users are no longer limited by their local memory or disk space.
+
+**Summary: What Changed in Accessibility?**
+
+The most significant change was the democratization of technology. Accessibility moved from Institutional (only for experts in large organizations) to Individual (standalone power for everyone) and finally to Ubiquitous (always-connected mobility). In the Mainframe Era, you had to go to the computer; in the PC era, the computer sat on your desk; in the Cloud Era, the computer is in your pocket and follows you everywhere.
+
+## [Strategy]: "Explain Nicholas Carr's argument 'IT Doesn't Matter' (Chapter 7). Do the authors agree or disagree? Answer in Traditional Chinese." 📉
+
+## [People]: "List 5 key IT job roles (e.g., CIO, Systems Analyst) mentioned in Chapter 9 and their main responsibilities. Which one fits a 'creative' person best?" 🧑‍💻
+
 # 🧪 Part 3: Top 30 Labs - NotebookLM 實戰實驗室, W15
 # 🟡 Phase 2: Technology Core (Unit 3 - 5, Select top 5 topics) - 技術核心 ⚙️
 
 - **[Hardware]**: "Explain **Moore's Law** simply. Is it still valid today according to the text? Use a metaphor of a car or a building." 🏎️
     
-    ![image.png](attachment:f1f18795-268d-4b57-9452-a2b527d2dbc3:image.png)
+
     
 - **[Binary]**: "How does the text explain **Bit vs. Byte**? Give me a calculation example of file size." 0️⃣1️⃣
     
-    ![image.png](attachment:bfcc7641-e216-4131-8368-e595c499f92d:image.png)
+
     
 - **[Software]**: "What is the difference between **Operating Systems** and **Application Software**? Give 3 examples of each from the book." 💿
     
-    ![image.png](attachment:7e3f22bb-8473-428f-a704-12a53703e042:image.png)
+
     
 - **[Open Source]**: "What are the pros and cons of **Open Source Software** (e.g., Linux)? Why would a company choose it over Windows?" 🐧
     
-    ![image.png](attachment:cced8854-5394-4cbc-a87d-4d22b5e666fd:image.png)
+
     
 - **[Data Hierarchy]**: "Explain the DIKW pyramid (**Data, Information, Knowledge, Wisdom**) using the example of 'Student Grades' found in Chapter 4." 🔺
     
-    ![image.png](attachment:7a48daad-9432-47c1-b146-1aa955de1ef8:image.png)
+
     
 - **[Database]**: "What is a **Relational Database**? Explain 'Primary Key' and 'Foreign Key' using the 'Student-Class' example." 🔑
     
-    ![image.png](attachment:b0044f78-b9ff-4586-948d-17a1bcde785f:image.png)
+
     
 - **[Big Data]**: "Summarize the section on **Big Data** and **Data Mining**. How does Walmart use it for competitive advantage?" 🛒
     
-    ![image.png](attachment:a2073e80-6c6a-4af1-8f12-ad88b5f415d0:image.png)
+
     
 - **[Networking]**: "Explain the difference between **LAN, WAN, and Intranet**. Use emojis to visualize the scope." 🌐
     
-    ![image.png](attachment:b373dd07-e8ec-4748-aa34-37a4d5ff7d2d:image.png)
+
     
 - **[Internet History]**: "Who invented the **World Wide Web** vs. the **Internet**? What is the difference according to the text?" 🕸️
-    
-    ![image.png](attachment:85ed22be-05be-45e0-a1c0-a891c9a6e70c:image.png)
+
+
     
 - **[Wireless]**: "Compare **3G, 4G, and 5G** speeds based on the table in Chapter 13. What new applications does 5G enable?" 📶
     
-    ![image.png](attachment:1c97d334-4d0d-4a72-ad9f-a4cc6bbabc0d:image.png)
 
 
 
