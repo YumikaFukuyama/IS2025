@@ -166,9 +166,22 @@ The Systems Development Life Cycle (SDLC) is a structured process for managing l
 • Agile: In contrast, Agile uses incremental changes and frequent iterations. It focuses on small, cross-functional teams and daily reviews, allowing for flexibility and constant user feedback.
 
 #### **[Mobile Dev]**: "What are the challenges of building **Mobile Apps** vs. Desktop Apps? (Focus on battery and screen size)." 📱
+Building mobile apps is similar to traditional development but faces unique physical and environmental constraints.
+
+• Battery Life: Mobile devices require components (like low-power CPUs) that are far more energy-efficient than desktops because they rely on batteries with a limited lifespan.
+
+• Screen Size: Due to smaller screens, mobile apps must be simple, purpose-built, and task-oriented. They must be intuitive so users don't require training. Developers often use Responsive Web Design (RWD) to ensure layouts automatically adjust to fit the specific device being used.
 
 #### **[Cloud]**: "Explain **Cloud Computing** (IaaS, PaaS, SaaS). What are the benefits for a startup company?" ☁️
+Cloud computing refers to applications, services, and data storage located on the Internet rather than on local computers.
 
+• Service Models: The text focuses on SaaS (Software as a Service), where users access software via a browser (e.g., Office 365 or Google Drive).
+
+• Benefits for a Startup:
+    1. Scalability: A startup can easily scale to a large number of users as it grows.
+    2. Low Upfront Cost: Services can be leased on an as-needed basis, eliminating the need for a startup to buy and manage its own expensive server hardware.
+    3. Speed: New applications can be deployed and running very quickly.
+    4. Mobility: Information is accessible from any computer with Internet access, allowing for a flexible, remote workforce.
 
 
 
