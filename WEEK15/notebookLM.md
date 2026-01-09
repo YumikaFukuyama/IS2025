@@ -60,6 +60,8 @@ In Chapter 7, published by Nicholas Carr in 2003, ``IT Doesn't Matter'' The Grea
 Which one fits a "creative" person best? The Systems Analyst fits a creative person best. According to the textbook, this role requires an individual to "imagine" new systems. Because they must find unique ways to solve business problems and design how users will interface with new technology, it requires a high degree of creative problem-solving and visualization. Alternatively, a Computer Engineer (specifically hardware or software design) also suits creative types as they are often at the "cutting edge," creating "something brand new".
 
 ## 🟡 Phase 2: Technology Core (Unit 3 - 5, Select top 5 topics) - 技術核心 ⚙️
+<img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/7ae810ce-8fb3-493b-aafb-d78361ce2578" />
+
 #### **[Hardware]**: "Explain **Moore's Law** simply. Is it still valid today according to the text? Use a metaphor of a car or a building." 🏎️
 
 Moore’s Law was an observation by Gordon Moore in 1965 that the number of transistors on a chip would double every two years. This has been generalized to mean that computing power doubles every two years for the same price point. According to the sources, this law is no longer able to be maintained because the physical limits of reducing circuits further are being reached.
@@ -183,9 +185,87 @@ Cloud computing refers to applications, services, and data storage located on th
     3. Speed: New applications can be deployed and running very quickly.
     4. Mobility: Information is accessible from any computer with Internet access, allowing for a flexible, remote workforce.
 
+## 🛡️ Phase 4: Security & Ethics (Unit 8, Select 5) - 重點攻堅 🔒
+<img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/d601c2a1-f2b4-447a-819b-859ee62380aa" />
 
+#### **[CIA Triad]**: "Define the **CIA Triad** (Confidentiality, Integrity, Availability) from Chapter 6. Give a real-world failure example for each." 👮
 
+The CIA Triad is the fundamental framework for information security, consisting of three components:
+• Confidentiality: Restricting information access to only those who are authorized to see it.
+    ◦ Failure Example: A university failing to restrict access to private student grade records to unauthorized individuals.
+• Integrity: The assurance that the information being accessed has not been altered and represents its intended meaning.
+    ◦ Failure Example: A hacker being hired to change a student's grade in a university system or a power surge corrupting a data file.
+• Availability: Ensuring that information can be accessed and modified by authorized users in an appropriate timeframe.
+    ◦ Failure Example: An online retailer’s servers going down, making them unavailable to customers.
 
+#### **[Auth]**: "What are the **3 Factors of Authentication** (Something you know, have, are)? How does MFA (Multi-Factor Authentication) use them?" 🔐
+Authentication is the process of ensuring that a person is who they claim to be when accessing a system. It is based on three factors:
+1. Something you know: Such as a user ID and password.
+2. Something you have: Such as a physical key, a card, or an **RSA SecurID token**.
+3. Something you are: Physical characteristics, known as **biometrics**, such as fingerprints or retinal scans.
+
+#### **[Malware]**: "List the types of **Malware** (Virus, Worm, Trojan) mentioned. How do they differ in how they spread?" 🦠
+**Multi-Factor Authentication (MFA)** combines two or more of these factors to make it much more difficult for someone to misrepresent themselves. For example, combining a four-digit PIN (something you know) with an RSA token (something you have) ensures a higher level of security.
+
+#### **[Phishing]**: "What is **Social Engineering** and **Phishing**? Based on the text, how should employees be trained to spot them?" 🎣
+Attackers often use human psychology rather than technical exploits to gain access to systems:
+• Social Engineering (Pretexting): This occurs when an attacker calls a helpdesk pretending to be an authorized user to convince a technician to reset a password.
+• Phishing: A method where users receive an email that looks like it is from a trusted source (like a bank) asking them to click a link and enter their credentials on a fake website.
+• Employee Training: The text emphasizes that employees must be trained not to give away passwords and to be suspicious of strange links or attachments in emails.
+
+#### **[Encryption]**: "Explain **Public Key vs. Private Key Encryption** using a 'Mailbox' metaphor." 📬
+**Encryption** is the process of encoding data so that only authorized individuals can read it.
+
+• **Symmetric Key Encryption**: Both parties share the same key to encode and decode messages.
+
+• **Public Key Encryption**: This uses two different keys—a public key to encode the message and a private key to decode it.
+
+**The Mailbox Metaphor**: Think of a Public Key as a mailbox's physical address or the slot where anyone can drop a letter. The **Private Key** is the **owner's personal key** to the back of the mailbox; even though everyone knows where to send the mail, only the owner can actually unlock the box to read the contents.
+
+#### **[Backup]**: "What is a proper **Backup Strategy**? Why is 'Offsite Storage' important?" 💾
+A proper backup plan is an essential tool for information security and should consist of several components:
+
+**• Inventory:** A full understanding of where all organizational information is stored, whether on servers, individual hard drives, or in the cloud.
+
+**• Regularity:** Backups must be performed on a schedule based on the data's importance. Critical data should be backed up daily, while less critical data might be handled weekly.
+
+**• Restoration Testing:** Organizations must regularly test the restoration process by deleting and then restoring test data to ensure the plan actually works.
+
+**Importance of Offsite Storage:** It is vital to store backup data sets in a different physical facility from the original data. If backups are kept in the same location, a single catastrophic event—such as a fire, earthquake, or tornado—could destroy both the original records and the backups.
+
+#### **[Privacy]**: "Summarize **PII (Personally Identifiable Information)**. What does **NORA (Non-Obvious Relationship Awareness)** mean in privacy analysis?" 🕵️
+
+**Personally Identifiable Information (PII):** PII is a broad category of information that can be used to uniquely establish a person’s identity. This includes facts like your name, Social Security Number, date of birth, biometric records (fingerprints), and medical or financial records. Organizations that collect PII are responsible for its protection, as breaches can lead to penalties and lawsuits.
+
+**Non-Obvious Relationship Awareness (NORA):** NORA is the process of collecting large quantities of information from disparate sources (like credit reports, social networks, and incident systems) and combining them to create detailed profiles of individuals. While this can help law enforcement identify potential criminals, it represents a significant erosion of individual privacy.
+
+#### **[Ethics]**: "Explain the **'PAPA'** framework (Privacy, Accuracy, Property, Accessibility) or the specific ethical issues raised in Chapter 12." ⚖️
+While the acronym "PAPA" is a standard framework in information systems ethics, the provided sources focus on the specific ethical challenges raised by new technologies:
+
+**• New Capabilities:** Technology gives us powers that traditional ethical contexts haven't addressed, such as the ability to make perfect anonymous copies of digital music, leading to illegal downloads.
+
+**• Data Aggregation:** Digital tools allow for the rapid profiling of individuals, which chips away at privacy. A primary example is the Cambridge Analytica scandal, where data from millions of Facebook users was captured without their explicit consent for political use.
+
+**• Codes of Ethics:** Organizations like the ACM provide a Code of Ethics and Professional Conduct to clarify acceptable behavior, though these codes generally lack legal authority and must be updated constantly to keep pace with technology.
+
+#### **[Intellectual Property]**:"What is the difference between **Copyright**, **Patent**, and **Trademark**? Use Apple or Disney as an example." 
+
+**Copyright:** Protects "creative works" like songs, books, and computer programs. It is obtained automatically upon creation. Disney is a notable example; the "Sonny Bono Copyright Term Extension Act" (nicknamed the Mickey Mouse Protection Act) was passed to extend protections just as the original copyright on Mickey Mouse was set to expire.
+
+ **• Patent:** Protects inventions or processes (e.g., circuit designs or business processes). They must be original, non-obvious, and useful, lasting for 20 years. IBM and Microsoft are leaders in filing patents, particularly in areas like Artificial Intelligence.
+ 
+ **• Trademark:** A word, phrase, logo, or sound that identifies the source of goods or services to protect consumers from confusion. Examples include Apple’s bitten apple logo, Nike’s "Swoosh," and Coca-Cola’s unique bottle shape.
+
+#### **[Digital Divide]**: "What are the **3 stages of the Digital Divide** (Nielsen)? Which one is the hardest to solve?"🌉
+
+Jakob Nielsen identifies three distinct stages of the digital divide:
+**1. Economic Divide:** The gap regarding who can afford a computer and Internet access. Nielsen considers this a moot point today because hardware prices have dropped so significantly.
+
+**2. Usability Divide:** The fact that technology remains too complicated for many people (such as seniors or those with low literacy) to use effectively.
+
+**3. Empowerment Divide:** This concerns how users choose to use technology to empower themselves. Many users only follow default settings and do not understand how to use advanced tools.
+
+**The Hardest to Solve:** The Empowerment Divide is the most difficult to solve because it involves human behavior and the initiative to learn how to truly harness digital power rather than just having access to the tools.
 
 
 
