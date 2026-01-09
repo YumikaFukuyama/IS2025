@@ -1,4 +1,15 @@
 # 🎯Unit A Case Study + Final Term Project, W16
+## Practice Lab
+
+### Step 1 Input Your Prompt and Information and Enable “Canvas”
+<img width="706" height="620" alt="image" src="https://github.com/user-attachments/assets/d9a6e875-c22a-4416-869c-2bc6b1163ebc" />
+
+### Step 2 Review and Automatic Coding by Google Gemini
+<img width="1913" height="999" alt="image" src="https://github.com/user-attachments/assets/aa83cd47-a8d4-4401-ac98-99398cc6e070" />
+
+### Step 3 Review & Play Your Result; finally, add your key take aways
+<img width="1904" height="799" alt="image" src="https://github.com/user-attachments/assets/3e14540e-a3f4-4874-a435-84adfdbdc35a" />
+
 ## Missions & GitHub 
 ### 1. Create a new NotebookLM then load the YouTube Video, the paper, and Fast Research (e.g., “What's is the latest status of food bank in US?”) 
 <img width="716" height="452" alt="image" src="https://github.com/user-attachments/assets/4f5c5917-1372-4ea6-8f58-390ed1353734" />
