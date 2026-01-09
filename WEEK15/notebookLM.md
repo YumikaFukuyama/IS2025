@@ -1,3 +1,4 @@
+# 🧪 Part 3: Top 30 Labs - NotebookLM 實戰實驗室, W15
 ## 🟢 Phase 1: Foundations (Unit 1.1 - 1.2) - 暖身區 🏃
 ## [History]: "Summarize the 'Mainframe Era' vs. 'PC Revolution' vs. 'Cloud Era' from the text. What changed in terms of accessibility?" ⏳
 
@@ -55,7 +56,6 @@ In Chapter 7, published by Nicholas Carr in 2003, ``IT Doesn't Matter'' The Grea
 
 Which one fits a "creative" person best? The Systems Analyst fits a creative person best. According to the textbook, this role requires an individual to "imagine" new systems. Because they must find unique ways to solve business problems and design how users will interface with new technology, it requires a high degree of creative problem-solving and visualization. Alternatively, a Computer Engineer (specifically hardware or software design) also suits creative types as they are often at the "cutting edge," creating "something brand new".
 
-# 🧪 Part 3: Top 30 Labs - NotebookLM 實戰實驗室, W15
 ## 🟡 Phase 2: Technology Core (Unit 3 - 5, Select top 5 topics) - 技術核心 ⚙️
 
 - **[Hardware]**: "Explain **Moore's Law** simply. Is it still valid today according to the text? Use a metaphor of a car or a building." 🏎️
