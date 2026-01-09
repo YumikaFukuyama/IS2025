@@ -1,6 +1,6 @@
 # 🧪 Part 3: Top 30 Labs - NotebookLM 實戰實驗室, W15
 ## 🟢 Phase 1: Foundations (Unit 1.1 - 1.2) - 暖身區 🏃
-## [History]: "Summarize the 'Mainframe Era' vs. 'PC Revolution' vs. 'Cloud Era' from the text. What changed in terms of accessibility?" ⏳
+#### [History]: "Summarize the 'Mainframe Era' vs. 'PC Revolution' vs. 'Cloud Era' from the text. What changed in terms of accessibility?" ⏳
 
 **The Mainframe Era (Late 1950s – 1960s)**
 
@@ -27,7 +27,7 @@ Often referred to as the "Post-PC World," this era is defined by the transition 
 
 The most significant change was the democratization of technology. Accessibility moved from Institutional (only for experts in large organizations) to Individual (standalone power for everyone) and finally to Ubiquitous (always-connected mobility). In the Mainframe Era, you had to go to the computer; in the PC era, the computer sat on your desk; in the Cloud Era, the computer is in your pocket and follows you everywhere.
 
-## [Strategy]: "Explain Nicholas Carr's argument 'IT Doesn't Matter' (Chapter 7). Do the authors agree or disagree? Answer in Traditional Chinese." 📉
+#### [Strategy]: "Explain Nicholas Carr's argument 'IT Doesn't Matter' (Chapter 7). Do the authors agree or disagree? Answer in Traditional Chinese." 📉
 
 In Chapter 7, published by Nicholas Carr in 2003, ``IT Doesn't Matter'' The Great Conflict. Below are the other core points:
 
@@ -40,7 +40,7 @@ In Chapter 7, published by Nicholas Carr in 2003, ``IT Doesn't Matter'' The Grea
 2. However, the author's transparent example of Walmart refuted Carr, and the explanation of Walmart's transparent information system was high priority, and success was achieved and continued competitive advantage.
 3. Author's citation completed 2008 research conclusion, recognized that IT has the ability to be intelligent and strategic in the department, parallel and deep integration of business processes, ensure the ability to strengthen the differences between companies and the advantages of the future.
 
-## [People]: "List 5 key IT job roles (e.g., CIO, Systems Analyst) mentioned in Chapter 9 and their main responsibilities. Which one fits a 'creative' person best?" 🧑‍💻
+#### [People]: "List 5 key IT job roles (e.g., CIO, Systems Analyst) mentioned in Chapter 9 and their main responsibilities. Which one fits a 'creative' person best?" 🧑‍💻
 
 **Based on Chapter 9, here are five essential roles within information systems:**
 
@@ -62,44 +62,44 @@ Which one fits a "creative" person best? The Systems Analyst fits a creative per
 
 Moore’s Law was an observation by Gordon Moore in 1965 that the number of transistors on a chip would double every two years. This has been generalized to mean that computing power doubles every two years for the same price point. According to the sources, this law is no longer able to be maintained because the physical limits of reducing circuits further are being reached.
 
-**• Metaphor:** If a car followed Moore’s Law, its engine power would double every two years while its price stayed the same; eventually, it would become incredibly fast for the price of a basic model.
+**Metaphor:** If a car followed Moore’s Law, its engine power would double every two years while its price stayed the same; eventually, it would become incredibly fast for the price of a basic model.
 
 - **[Binary]**: "How does the text explain **Bit vs. Byte**? Give me a calculation example of file size." 0️⃣1️⃣
 
 A bit is the smallest unit of data, representing a "1" or a "0". A byte is a group of eight bits. To represent a number like 15 in binary, you need four bits (1111), but to send it as a full byte, the computer sends "00001111".
 
-**• Calculation**: File sizes are measured in multiples of 1,000; for example, a kilobyte (KB) is one thousand bytes, and a megabyte (MB) is one million bytes.
+**Calculation**: File sizes are measured in multiples of 1,000; for example, a kilobyte (KB) is one thousand bytes, and a megabyte (MB) is one million bytes.
     
 - **[Software]**: "What is the difference between **Operating Systems** and **Application Software**? Give 3 examples of each from the book." 💿
 
 The Operating System (OS) manages hardware resources and provides the interface for both users and applications. Application software allows users to perform specific tasks.
 
-**• OS Examples: Microsoft Windows, Ubuntu Linux, and Apple iOS.**
-**• Application Examples: Microsoft Excel, Google Chrome, and iTunes.**
+**OS Examples: Microsoft Windows, Ubuntu Linux, and Apple iOS.**
+**Application Examples: Microsoft Excel, Google Chrome, and iTunes.**
 
 - **[Open Source]**: "What are the pros and cons of **Open Source Software** (e.g., Linux)? Why would a company choose it over Windows?" 🐧
 
 Open-source software makes its source code available for anyone to copy and use.
 
-**• Pros**: It allows thousands of programmers to collaborate, which can lead to faster innovation and security patches.
-**• Cons**: Some businesses worry that making the code visible increases the risk of attacks.
-**• Choice**: A company might choose Linux over Windows to avoid restrictive licensing fees or to customize the code to their specific needs.
+**Pros**: It allows thousands of programmers to collaborate, which can lead to faster innovation and security patches.
+**Cons**: Some businesses worry that making the code visible increases the risk of attacks.
+**Choice**: A company might choose Linux over Windows to avoid restrictive licensing fees or to customize the code to their specific needs.
     
 - **[Data Hierarchy]**: "Explain the DIKW pyramid (**Data, Information, Knowledge, Wisdom**) using the example of 'Student Grades' found in Chapter 4." 🔺
 
 The text uses student data to explain the Data, Information, Knowledge, Wisdom hierarchy:
 
-**• Data**: Raw facts like a "Student ID 1234" or "Grade A".
-**• Information**: Data with context, such as calculating a student's GPA.
-**• Knowledge**: Understanding relationships, such as realizing that students with high attendance usually get better grades.
-**• Wisdom**: Using knowledge and experience to make deeper decisions, such as improving a curriculum to boost student success
+**Data**: Raw facts like a "Student ID 1234" or "Grade A".
+**Information**: Data with context, such as calculating a student's GPA.
+**Knowledge**: Understanding relationships, such as realizing that students with high attendance usually get better grades.
+**Wisdom**: Using knowledge and experience to make deeper decisions, such as improving a curriculum to boost student success
 
 - **[Database]**: "What is a **Relational Database**? Explain 'Primary Key' and 'Foreign Key' using the 'Student-Class' example." 🔑
 
 A relational database organizes data into tables consisting of rows (records) and columns (fields).
 
-**• Primary Key:** A unique identifier for each record, such as a Student ID.
-**• Foreign Key:** A field in one table that links to the primary key of another table, such as putting a Student ID in a GRADE table to link a specific grade to a specific student.
+**Primary Key:** A unique identifier for each record, such as a Student ID.
+**Foreign Key:** A field in one table that links to the primary key of another table, such as putting a Student ID in a GRADE table to link a specific grade to a specific student.
 
 - **[Big Data]**: "Summarize the section on **Big Data** and **Data Mining**. How does Walmart use it for competitive advantage?" 🛒
 
@@ -107,9 +107,9 @@ Big Data refers to datasets so massive that traditional tools cannot analyze the
     
 - **[Networking]**: "Explain the difference between **LAN, WAN, and Intranet**. Use emojis to visualize the scope." 🌐
 
-**• LAN (Local Area Network):** Operates in a small area, like a single building or campus. 🏢
-**• WAN (Wide Area Network):** Connects locations across cities, states, or even countries. 🌍
-**• Intrane A private set of web resources accessible only to an organization’s employees. 🔒**    
+**LAN (Local Area Network):** Operates in a small area, like a single building or campus. 🏢
+**WAN (Wide Area Network):** Connects locations across cities, states, or even countries. 🌍
+**Intrane A private set of web resources accessible only to an organization’s employees. 🔒**    
 
     
 - **[Internet History]**: "Who invented the **World Wide Web** vs. the **Internet**? What is the difference according to the text?" 🕸️
@@ -118,8 +118,8 @@ The Internet was created in 1969 via the ARPANET project by the U.S. Department 
     
 - **[Wireless]**: "Compare **3G, 4G, and 5G** speeds based on the table in Chapter 13. What new applications does 5G enable?" 📶
 
-**• Speeds:** 3G reached ~2 Mbps, 4G reached ~200 Mbps, and 5G is expected to exceed 1 Gbps.
-**• Applications:** 5G's high speed and low latency will accelerate an "always-connected" world and may lead some households to replace wired home Internet with 5G wireless connections.
+**Speeds:** 3G reached ~2 Mbps, 4G reached ~200 Mbps, and 5G is expected to exceed 1 Gbps.
+**Applications:** 5G's high speed and low latency will accelerate an "always-connected" world and may lead some households to replace wired home Internet with 5G wireless connections.
 
 ## 🔴 Phase 3: Systems in Action (Unit 6 - 7, Select top 5 topics) - 應用與流程 🔄 (”All-In”)
 
