@@ -267,39 +267,10 @@ Jakob Nielsen identifies three distinct stages of the digital divide:
 
 **The Hardest to Solve:** The Empowerment Divide is the most difficult to solve because it involves human behavior and the initiative to learn how to truly harness digital power rather than just having access to the tools.
 
+## ****Let’s learn the content using Vibe Coding in Google Gemini 3.0 in Canvas Features
 
+### 1. What Is Vibe Coding?
+<img width="1261" height="691" alt="image" src="https://github.com/user-attachments/assets/481d9c3a-fe19-4573-b0ed-aa1620d1fe56" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### 2. 5W1H analysis for Vibe Coding using Google Gemini 3.0
+![Uploading image.png…]()
